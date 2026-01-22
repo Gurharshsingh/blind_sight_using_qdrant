@@ -19,7 +19,7 @@ IMAGE_COLLECTION = "page_images"
 TOP_K_TEXT = 1
 TOP_K_IMAGES = 1
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 OPENROUTER_MODEL = "openai/gpt-oss-120b:free"
 
@@ -268,3 +268,4 @@ if __name__ == "__main__":
     if not OPENROUTER_API_KEY:
         raise RuntimeError("OPENROUTER_API_KEY not set.")
     main()
+
