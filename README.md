@@ -85,21 +85,7 @@ Git
 
 A working microphone (for speech input)
 
-# Project Structure
-multimodal-textbook-rag/
-│
-├── extraction/        # Text and image extraction from PDFs
-├── ingestion/         # Collection creation and data ingestion
-├── speech/            # Speech-to-text and text-to-speech modules
-├── main_cli.py               # Command-line interface
-├── data/
-│   └── textbooks/     # Input textbook PDFs (by class and subject)
-├── docker/
-│   └── docker-compose.yml
-├── qdrant_data/       # Qdrant persistent storage (not committed)
-├── requirements.txt
-├── README.md
-└── .gitignore
+
 
 # Setup Instructions (End-to-End)
 1. Clone the Repository
