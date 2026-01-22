@@ -1,0 +1,39 @@
+# ==============================
+# Core Python & Utilities
+# ==============================
+requests
+numpy
+
+# ==============================
+# PDF Text & Image Extraction
+# ==============================
+pymupdf
+pillow
+
+# ==============================
+# Text Embeddings
+# ==============================
+sentence-transformers
+torch
+
+# ==============================
+# Image Embeddings (CLIP)
+# ==============================
+transformers
+
+# ==============================
+# Vector Database Client
+# ==============================
+qdrant-client
+
+# ==============================
+# Speech-to-Text (Offline)
+# ==============================
+vosk
+sounddevice
+scipy
+
+# ==============================
+# Text-to-Speech
+# ==============================
+pyttsx3
