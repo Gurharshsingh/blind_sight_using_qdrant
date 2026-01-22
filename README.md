@@ -89,9 +89,7 @@ A working microphone (for speech input)
 
 # Setup Instructions (End-to-End)
 1. Clone the Repository
-git clone https://github.com/your-username/multimodal-textbook-rag.git
-cd multimodal-textbook-rag
-
+git clone https://github.com/Gurharshsingh/blind_sight_using_qdrant/tree/main
 2. Create and Activate a Virtual Environment
 python -m venv venv
 
